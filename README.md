@@ -1,8 +1,7 @@
 ###   Olá! Eu sou o Hallan Christian 🖐️
 
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://s.team/p/gjmt-rkbd/mmpcprbn)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hallan-christian-morais-da-cruz-4160ab289/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ch_hallan)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/hallanchristiancruz?si=-QaY5UxjT9i6vtUHsP8hjA)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hallanchristiancruz@gmail.com)
 
 ![Olossy GitHub stats](https://github-readme-stats.vercel.app/api?username=Olossy&show_icons=true&theme=cobalt)
