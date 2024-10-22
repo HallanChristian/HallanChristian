@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ch_hallan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hallanchristiancruz@gmail.com)
 
-![Olossy GitHub stats](https://github-readme-stats.vercel.app/api?username=Olossy&show_icons=true&theme=cobalt)
+![Olossy GitHub stats](https://github-readme-stats.vercel.app/api?username=HallanChristian&show_icons=true&theme=cobalt)
 
 ### Linguagens de Programação 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
@@ -20,7 +20,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olossy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HallanChristian&layout=compact)
 
 📚 - ᴜɴɪᴛɪɴꜱ - ꜱɪꜱᴛᴇᴍᴀꜱ ᴅᴇ ɪɴꜰᴏʀᴍᴀçãᴏ<br/>
 Apenas um programador novato
