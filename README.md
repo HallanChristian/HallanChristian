@@ -4,7 +4,7 @@
 - Atualmente, aprofundando os conhecimentos em Java
 
 ## Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hallan-christian-morais-da-cruz-4160ab289/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hallanchristian)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ch_hallan)
 
 ![Olossy GitHub stats](https://github-readme-stats.vercel.app/api?username=HallanChristian&show_icons=true&theme=cobalt)
