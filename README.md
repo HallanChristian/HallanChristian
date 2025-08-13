@@ -18,6 +18,7 @@
 ![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)
 ![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+
 ![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
