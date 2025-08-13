@@ -1,7 +1,7 @@
 #   Olá, meu nome é Hallan Christian 
 - Estudante do curso: Sistemas de Informação
 - Interessado na área de BackEnd
-- Atualmente, aprofundando os conhecimentos em Java
+- Especializado em desenvolvimento backend com Java & Quarkus
 
 ## Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hallanchristian)
